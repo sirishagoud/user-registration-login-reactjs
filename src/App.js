@@ -1,8 +1,9 @@
+import CreateUser from "./create-user";
 
 function App() {
   return (
     <div>
-      Hello World!
+      <CreateUser />
     </div>
   );
 }
